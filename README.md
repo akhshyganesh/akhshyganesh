@@ -122,7 +122,7 @@
 
 ## 🎭 Developer Humor & Techy Vibes
 
-<div align="center">
+<div>
 
 ### 💭 **The Chronicles of an AI Engineer**
 
@@ -174,7 +174,7 @@ $ git commit -m "Added one print statement, broke everything"
 
 ## 🔧 Advanced Tech Arsenal & Experiments
 
-<div align="center">
+<div>
 
 ### ⚡ **Bleeding-Edge Technologies I Tinker With**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
