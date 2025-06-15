@@ -38,16 +38,14 @@
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge&logoColor=white)
 
 ### 🔬 Advanced AI Techniques & Algorithms
-- **🗣️ Natural Language Processing** - GPT-4, BERT, T5, RoBERTa, LSTM, GRU, Seq2Seq, Attention Mechanisms
+- **🗣️ Natural Language Processing** - GPT-4, BERT, T5, RoBERTa, LSTM, GRU, Claude
 - **👁️ Computer Vision** - ResNet, VGG, YOLO, R-CNN, Mask R-CNN, U-Net, StyleGAN, CycleGAN, CLIP
 - **🧮 Deep Learning Architectures** - Transformers, Graph Neural Networks, Autoencoders, VAE, LSTM Networks
 - **🤖 Generative AI** - GPT-3/4, DALL-E, Stable Diffusion, ControlNet, LoRA, PEFT, RAG Systems
 - **🧠 Advanced ML Techniques** - Reinforcement Learning, Q-Learning, Actor-Critic, SARSA, Monte Carlo Methods
 - **📊 MLOps & Production** - Kubeflow, MLflow, TensorFlow Serving, ONNX, TensorRT, Model Quantization
-- **🔍 Time Series & Forecasting** - ARIMA, Prophet, LSTM for Time Series, Anomaly Detection
 - **🎯 Recommendation Systems** - Collaborative Filtering, Content-Based, Matrix Factorization, Neural CF
 - **🔊 Audio & Speech Processing** - Whisper, Wav2Vec2, Tacotron, WaveNet, Speech Recognition/Synthesis
-- **🌐 Multi-Modal AI** - CLIP, BLIP, DALL-E 2/3, Vision-Language Models, Cross-Modal Retrieval
 
 ### 🛠️ AI Development & Research Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,9 +55,6 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
@@ -136,7 +131,7 @@ class AkhshyGanesh:
         
     def debug_neural_network(self):
         while self.model.accuracy < 0.99:
-            print("Why you no learn? 😭")
+            print("Why aren't you learning? 😭")
             self.add_more_layers()  # Classic move
             self.drink_coffee()
             
@@ -144,7 +139,7 @@ class AkhshyGanesh:
         return "I teach computers to think... No, not like Skynet!"
         
     def weekend_plans(self):
-        return ["Train GPT from scratch", "Maybe go outside", "Nah, more coding"]
+        return ["Train Model from scratch", "Maybe go outside", "Nah, more coding"]
 ```
 
 ### 🤖 **AI Engineer's Daily Routine (in memes)**
@@ -187,14 +182,10 @@ $ git commit -m "Added one print statement, broke everything"
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🔬 **Research & Development Playground**
-- **🧬 Genetic Algorithms** - Evolutionary computation for neural architecture optimization
-- **🌊 Fluid Dynamics in AI** - Physics-informed neural networks (PINNs)
 - **🔗 Blockchain + AI** - Decentralized machine learning protocols
 - **🎮 Procedural Generation** - AI-driven content creation for games and media
 - **🎤 Voice Cloning** - Custom speech synthesis with 5-minute samples
 - **👁️ Real-time Object Tracking** - Multi-object tracking with Kalman filters
-- **🧠 Brain-Computer Interfaces** - EEG signal processing with deep learning
-- **🌌 Astronomical Data Mining** - ML for space exploration and discovery
 
 ### 💾 **System Architecture & Performance**
 ```yaml
@@ -206,7 +197,6 @@ Current Setup:
   Coffee Machine: "Industrial Grade ☕"
   
 Distributed Computing:
-  - Multi-GPU training with Horovod
   - Docker Swarm orchestration
   - Kubernetes for model serving
   - Apache Spark for big data processing
@@ -215,10 +205,11 @@ Distributed Computing:
 </div>
 
 ### 📈 **Open Source Contributions**
-- Contributing to TensorFlow, PyTorch ecosystems
 - Building AI tools for developer productivity
 - Creating educational AI content and tutorials
 - Developing open-source ML libraries
+- Developing open-source npm packages for community
+- Create React Helper kits for react-community
 
 ---
 
@@ -271,26 +262,12 @@ Distributed Computing:
 <div>
 
 ### 🎯 **Performance Metrics & Tech Stats**
-- 📈 **1000+** AI/ML models deployed across production environments
+- 📈 **100+** AI/ML models deployed across production environments
 - 🚀 **200+** Full-stack applications with integrated AI capabilities  
-- 🔬 **50+** Research papers, technical articles, and AI tutorials published
-- 🌟 **100K+** Lines of production-grade AI code committed
-- 🤝 **500+** Open source contributions across ML/AI repositories
-- ⚡ **99.7%** Model uptime in production systems
+- 🌟 **10K+** Lines of production-grade code committed
 - 🧠 **15** Different neural network architectures mastered
-- 🎯 **85%** Average model accuracy improvement over baseline
 - 🔥 **24/7** Availability for debugging critical AI systems
 - 💡 **∞** Cups of coffee consumed while training models
-
-### 🏅 **Certifications & Professional Recognition**
-- 🎓 **TensorFlow Developer Certificate** - Advanced Neural Networks & Deep Learning
-- 🏆 **AWS Certified Machine Learning Specialist** - Cloud-native AI solutions
-- 🥇 **Google Cloud Professional ML Engineer** - Scalable ML systems
-- 🎖️ **Microsoft Azure AI Engineer Associate** - Enterprise AI development
-- 🏅 **NVIDIA Deep Learning Institute** - GPU-accelerated computing
-- 🎯 **Kaggle Competitions Master** - Top 1% in multiple ML competitions
-- 🥉 **Hackathon Champion** - AI Innovation Challenge 2024
-- 📜 **IEEE Member** - Contributing to AI research standards
 
 </div>
 
@@ -329,8 +306,7 @@ function codingSession(coffeeCups) {
 
 ### 🤓 **Nerdy Confessions:**
 - � I measure code quality by how aesthetically pleasing the syntax highlighting looks
-- 🔍 I've spent 3 hours optimizing code that saves 0.001 seconds
-- 📱 My phone's calculator has never been used for normal math, only hex conversions
+- 🔍 I've spent 3 hours optimizing code that saves 0.01 seconds
 - 🐧 I name my servers after Star Wars characters and they all run Linux
 - 🎵 My coding playlist includes neural network training sounds as white noise
 - 🌙 Peak productivity hours: 11 PM - 4 AM (when the internet is faster)
@@ -354,7 +330,7 @@ Name: Akhshy Ganesh B
 Role: Senior AI Engineer & Full-Stack Developer  
 Location: India 🇮🇳
 Specialty: Making machines smarter than humans (except at making coffee)
-Status: Currently training GPT-5 in my basement
+Status: Currently training AGI Model in my basement
 
 $ ps aux | grep passion
 - Artificial Intelligence Research ████████████ 99.9%
@@ -363,10 +339,7 @@ $ ps aux | grep passion
 - Problem Solving & Innovation ████████████ 97.8%
 - Coffee Consumption ████████████ 100.0%
 
-$ history | tail -5
-- Fixed gradient exploding issue in transformer model
-- Optimized inference speed by 40% using TensorRT
-- Contributed to Hugging Face transformers library  
+$ history | tail -2
 - Built real-time object detection system
 - Taught AI to generate better code comments than me
 
@@ -387,7 +360,7 @@ Connection to genius.local closed.
 
 <div align="center" >
 
-If you find my work inspiring or want to support my AI research, consider buying me a coffee! ☕
+If you find my work inspiring or want to support, consider buying me a coffee! ☕
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/akhshyganesh)
 
