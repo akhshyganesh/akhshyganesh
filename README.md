@@ -1,380 +1,289 @@
+<div align="center">
 
-<div>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Akhshy%20Ganesh%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineer%20who%20builds%20WITH%20AI%20%E2%80%94%20not%20BY%20AI&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
-# 🚀 Akhshy Ganesh B
-### AI Engineer & Full-Stack Developer
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<br/>
 
-*Pioneering the future of intelligent software solutions*
+![Profile Views](https://komarev.com/ghpvc/?username=akhshyganesh&style=for-the-badge&color=58a6ff&label=PROFILE+WATCHERS)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/akhshyganesh?style=for-the-badge&color=238636&labelColor=0d1117&label=Followers)](https://github.com/akhshyganesh?tab=followers)
+&nbsp;&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/akhshyganesh?style=for-the-badge&color=e3b341&labelColor=0d1117&label=Total+Stars&affiliations=OWNER)](https://github.com/akhshyganesh?tab=repositories)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-akhshyganesh.github.io-blue?style=for-the-badge)](http://akhshyganesh.github.io)
-[![Email](https://img.shields.io/badge/📧_Contact-akhshy.balakannan@gmail.com-red?style=for-the-badge)](mailto:akhshy.balakannan@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Based_in-India-green?style=for-the-badge)](#)
+<br/>
 
-</div>
-
----
-
-## 🎯 About Me
-
-> **Passionate AI Engineer & Full-Stack Developer** crafting next-generation intelligent applications that bridge the gap between human creativity and machine intelligence.
-
-- � **AI/ML Specialist** - Building cutting-edge AI models, neural networks, and intelligent systems
-- 🧠 **Deep Learning Expert** - Specializing in NLP, Computer Vision, and Generative AI
-- 💡 **Innovation Driver** - Transforming complex problems into elegant AI-powered solutions
-- 🔬 **Research Enthusiast** - Contributing to the advancement of artificial intelligence
-- 🌟 **Tech Visionary** - Exploring the intersection of AI, blockchain, and quantum computing
-
----
-
-## 🚀 AI & Machine Learning Arsenal
-
-<div>
-
-### 🧠 Core AI Technologies
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge&logoColor=white)
-
-### 🔬 Advanced AI Techniques & Algorithms
-- **🗣️ Natural Language Processing** - GPT-4, BERT, T5, RoBERTa, LSTM, GRU, Claude
-- **👁️ Computer Vision** - ResNet, VGG, YOLO, R-CNN, Mask R-CNN, U-Net, StyleGAN, CycleGAN, CLIP
-- **🧮 Deep Learning Architectures** - Transformers, Graph Neural Networks, Autoencoders, VAE, LSTM Networks
-- **🤖 Generative AI** - GPT-3/4, DALL-E, Stable Diffusion, ControlNet, LoRA, PEFT, RAG Systems
-- **🧠 Advanced ML Techniques** - Reinforcement Learning, Q-Learning, Actor-Critic, SARSA, Monte Carlo Methods
-- **📊 MLOps & Production** - Kubeflow, MLflow, TensorFlow Serving, ONNX, TensorRT, Model Quantization
-- **🎯 Recommendation Systems** - Collaborative Filtering, Content-Based, Matrix Factorization, Neural CF
-- **🔊 Audio & Speech Processing** - Whisper, Wav2Vec2, Tacotron, WaveNet, Speech Recognition/Synthesis
-
-### 🛠️ AI Development & Research Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=3%2C400%2B+contributions+this+year+%F0%9F%94%A5;52+repositories+%7C+69+followers+%7C+Building+daily" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-## 💻 Technical Expertise
+<br/>
 
-<div>
+## ⚡ Stop scrolling. Read this first.
 
-### 🌐 Full-Stack Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+> **I'm not a "vibe coder" who prompts AI and ships whatever comes out.**
+> **I'm not an ancient dev who refuses to touch AI tools.**
+> **I'm the engineer in between — the one who actually understands what the code does before it ships.**
 
-### 🗄️ Backend & Databases
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+I use AI as a **power tool**, not a **crutch**. Every line in my repos has been reviewed, understood, and deliberately committed by me. AI accelerates my thinking — it doesn't replace it. I debug my own code, I architect my own systems, and I read the docs before asking ChatGPT.
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+**The difference?** A vibe coder ships fast and breaks everything. An ancient coder ships slow and misses the wave. I ship **fast AND intentional** — because I understand the fundamentals deeply enough to know when AI is right and when it's hallucinating garbage.
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<br/>
 
 ---
 
-## 🔬 Current AI Research & Projects
+## 🧬 Who Am I
 
-### 🚀 **Cutting-Edge AI Initiatives**
-- 🤖 **Large Language Model Fine-tuning** - Custom domain-specific AI models with LoRA and QLoRA
-- 🧠 **Neural Architecture Search** - Automated ML model optimization using AutoML techniques
-- 🔍 **AI-Powered Analytics** - Intelligent data interpretation with Graph Neural Networks
-- 🎯 **Recommendation Engines** - Advanced personalization using Deep Collaborative Filtering
-- 🌐 **Multimodal AI** - Vision-Language model integration with CLIP and BLIP architectures
-- 🔐 **AI Security & Ethics** - Robust, responsible AI with adversarial training and bias detection
-- 🔮 **Quantum-Classical Hybrid Models** - Exploring quantum advantage in machine learning
-- 🎨 **Generative Art & Content** - Custom diffusion models for creative AI applications
-- 📈 **Real-time AI Inference** - Edge computing deployment with TensorFlow Lite and ONNX
-- 🕸️ **AI Agent Orchestration** - Multi-agent systems with reinforcement learning protocols
-
----
-
-## 🎭 Developer Humor & Techy Vibes
-
-<div>
-
-### 💭 **The Chronicles of an AI Engineer**
-
-```python
-class AkhshyGanesh:
-    def __init__(self):
-        self.coffee_level = float('inf')
-        self.bugs_fixed = []
-        self.models_trained = 9000  # It's over 9000!
-        self.sleep_hours = lambda: random.randint(2, 4)
-        
-    def debug_neural_network(self):
-        while self.model.accuracy < 0.99:
-            print("Why aren't you learning? 😭")
-            self.add_more_layers()  # Classic move
-            self.drink_coffee()
-            
-    def explain_ai_to_relatives(self):
-        return "I teach computers to think... No, not like Skynet!"
-        
-    def weekend_plans(self):
-        return ["Train Model from scratch", "Maybe go outside", "Nah, more coding"]
-```
-
-### 🤖 **AI Engineer's Daily Routine (in memes)**
-- **9 AM**: "Today I'll create AGI!" 
-- **12 PM**: "Why won't this tensor reshape?" 🤔
-- **3 PM**: "GPU memory error... again" 💀
-- **6 PM**: "It's not a bug, it's an undocumented feature" 😎
-- **9 PM**: "Just one more epoch..." 
-- **3 AM**: "EUREKA! 99.9% accuracy!" 🎉
-- **3:01 AM**: "Wait, that's the training set..." 😅
-
-### 🧠 **My Relationship with AI Models**
-```bash
-$ git commit -m "Finally fixed the gradient exploding issue"
-$ git commit -m "Okay, NOW it's fixed"
-$ git commit -m "I'm not crying, you're crying"
-$ git commit -m "Model works! Don't touch ANYTHING"
-$ git commit -m "Added one print statement, broke everything"
-```
-
-### 💡 **Debugging Wisdom**
-> *"There are only 10 types of people in the world: those who understand binary, those who don't, and those who are still training their first neural network."*
-
-</div>
-
----
-
-## 🔧 Advanced Tech Arsenal & Experiments
-
-<div>
-
-### ⚡ **Bleeding-Edge Technologies I Tinker With**
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🔬 **Research & Development Playground**
-- **🔗 Blockchain + AI** - Decentralized machine learning protocols
-- **🎮 Procedural Generation** - AI-driven content creation for games and media
-- **🎤 Voice Cloning** - Custom speech synthesis with 5-minute samples
-- **👁️ Real-time Object Tracking** - Multi-object tracking with Kalman filters
-
-### 💾 **System Architecture & Performance**
-```yaml
-Current Setup:
-  GPU: "RTX 4090 (My precious) 💎"
-  RAM: "128GB DDR5 (Because Chrome)"
-  Storage: "2TB NVMe SSD (Need for Speed)"
-  Monitors: "Triple 4K (More screens = more productivity)"
-  Coffee Machine: "Industrial Grade ☕"
-  
-Distributed Computing:
-  - Docker Swarm orchestration
-  - Kubernetes for model serving
-  - Apache Spark for big data processing
-```
-
-</div>
-
-### 📈 **Open Source Contributions**
-- Building AI tools for developer productivity
-- Creating educational AI content and tutorials
-- Developing open-source ML libraries
-- Developing open-source npm packages for community
-- Create React Helper kits for react-community
-
----
-
-## 🤝 Let's Collaborate
-
-<div>
-
-### 🎯 **Open for Collaboration On:**
-- 🤖 **AI/ML Projects** - Neural networks, deep learning, generative AI
-- 🌐 **Full-Stack Development** - Modern web applications with AI integration
-- 📱 **Mobile Development** - React Native, cross-platform solutions
-- 🔬 **Research Projects** - Academic and industry AI research
-- 🚀 **Startup Ventures** - AI-driven product development
-- 🎓 **Mentoring** - Guiding next-gen AI engineers
-
-</div>
-
----
-
-## 🌐 Connect & Follow
-<div align="center" >
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/akhshyganesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhshyganesh)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/!akhshyganesh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/akhshyganesh)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akhshyganesh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/akhshy_official)
-
-</div>
-
----
-
-## 📊 GitHub Analytics & Performance
-
-<div align="center" >
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhshyganesh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhshyganesh&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhshyganesh&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div>
-
-### 🎯 **Performance Metrics & Tech Stats**
-- 📈 **100+** AI/ML models deployed across production environments
-- 🚀 **200+** Full-stack applications with integrated AI capabilities  
-- 🌟 **10K+** Lines of production-grade code committed
-- 🧠 **15** Different neural network architectures mastered
-- 🔥 **24/7** Availability for debugging critical AI systems
-- 💡 **∞** Cups of coffee consumed while training models
-
-</div>
-
----
-
-## 💡 Techy Vibes & Developer Life
-
-<div>
-
-*"Any sufficiently advanced technology is indistinguishable from magic... until you see the code."* - Arthur C. Clarke (modified by every developer ever)
-
-### 🎯 **Current Focus & Obsessions:**
-- 🔮 **Quantum Machine Learning** - Making qubits do backpropagation 
-- 🧠 **AGI Research** - Teaching machines to understand memes
-- 🌍 **AI for Social Good** - Solving world hunger, one model at a time
-- 🚀 **Space Tech** - Training AI to find alien civilizations
-- 🎨 **Generative Art** - Making AI create better art than me (not hard)
-
-### ⚡ **Developer Lifestyle & Quirks:**
-```javascript
-const developerLife = {
-    wakeUpTime: "When the build finishes",
-    breakfast: "Coffee.black().strong()",
-    workMode: "Deep focus until someone says 'quick question'",
-    lunchBreak: "What's lunch? I have Stack Overflow",
-    debuggingStyle: "Console.log() everything until it works",
-    sleepSchedule: "Sleep is for machines without proper cooling",
-    weekendPlans: ["Contribute to OSS", "Learn new framework", "Actually touch grass"]
+```js
+const akhshy = {
+  role: "AI Engineer & Full-Stack Developer",
+  location: "India 🇮🇳",
+  contributions_last_year: "3,400+",
+  repos: 52,
+  open_source_license: "MIT (almost everything)",
+  philosophy: "Build → Understand → Ship → Repeat",
+  currently_building: ["envault", "nodepad", "aliasmate", "react-use-anywhere"],
+  superpower: "I read error messages before Googling them"
 };
-
-// Life hack: Convert caffeine to code
-function codingSession(coffeeCups) {
-    return coffeeCups * 1000 + "lines of code";
-}
 ```
 
-### 🤓 **Nerdy Confessions:**
-- � I measure code quality by how aesthetically pleasing the syntax highlighting looks
-- 🔍 I've spent 3 hours optimizing code that saves 0.01 seconds
-- 🐧 I name my servers after Star Wars characters and they all run Linux
-- 🎵 My coding playlist includes neural network training sounds as white noise
-- 🌙 Peak productivity hours: 11 PM - 4 AM (when the internet is faster)
-- 🦾 I dream in Python but think in pseudocode
+<div align="center">
 
-### 🛠️ **Tech Philosophy:**
-> *"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*
+[![Portfolio](https://img.shields.io/badge/Portfolio-akhshyganesh.github.io-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](http://akhshyganesh.github.io)
+[![Email](https://img.shields.io/badge/Email-akhshy.balakannan@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhshy.balakannan@gmail.com)
 
 </div>
 
 ---
 
-## � Terminal Session
+## 🏗️ What I've Actually Built
 
-```bash
-$ whoami
-akhshyganesh@localhost:~$ AI Engineer | Full-Stack Developer | Coffee Addict
+> Not forks. Not tutorials. **Real projects, MIT licensed, built from scratch.**
 
-$ cat /etc/developer-info
-Name: Akhshy Ganesh B
-Role: Senior AI Engineer & Full-Stack Developer  
-Location: India 🇮🇳
-Specialty: Making machines smarter than humans (except at making coffee)
-Status: Currently training AGI Model in my basement
+<table>
+<tr>
+<td width="50%">
 
-$ ps aux | grep passion
-- Artificial Intelligence Research ████████████ 99.9%
-- Neural Network Architecture ████████████ 98.5%  
-- Open Source Development ████████████ 95.2%
-- Problem Solving & Innovation ████████████ 97.8%
-- Coffee Consumption ████████████ 100.0%
+### 🔐 [envault](https://github.com/akhshyganesh/envault)
+> **Go** · Lightweight daemon that auto-discovers, versions, and backs up all `.env` files on your machine. Because losing env files at 2 AM shouldn't be a rite of passage.
 
-$ history | tail -2
-- Built real-time object detection system
-- Taught AI to generate better code comments than me
+### ⚛️ [react-use-anywhere](https://github.com/akhshyganesh/react-use-anywhere)
+> **TypeScript** · Production-ready library that lets you use React hooks outside React files via dependency injection. Yes, you read that right.
 
-$ fortune
-"In a world of 1s and 0s, be the algorithm that makes the difference."
+### 📸 [reposnap](https://github.com/akhshyganesh/reposnap) ⭐ 4
+> **TypeScript** · CLI tool that generates a complete snapshot of your codebase — structure + contents. Feed it to AI, share with teams, or archive.
 
-$ uptime
-System online: 24/7 (Powered by caffeine and curiosity)
-Load average: 3.14, 2.71, 1.41 (Math constants everywhere!)
+### 🎙️ [sensai](https://github.com/akhshyganesh/sensai)
+> **TypeScript** · Real-time voice interaction powered by Google's Gemini Live API. Speak naturally, get instant AI voice responses.
 
-$ exit
-Connection to genius.local closed.
-```
+</td>
+<td width="50%">
+
+### 🧠 [prompt-engineering](https://github.com/akhshyganesh/prompt-engineering) ⭐ 15
+> **Python** · Curated prompt engineering techniques and patterns. The most starred repo in my collection — because everyone needs better prompts.
+
+### 🎥 [floating-cam](https://github.com/akhshyganesh/floating-cam)
+> **JavaScript** · Cross-platform always-on-top floating camera window. Perfect for recordings and presentations on macOS/Windows/Linux.
+
+### 🔌 [mcp-http-proxy](https://github.com/akhshyganesh/mcp-http-proxy)
+> **JavaScript** · MCP server providing HTTP request proxying with full CRUD operations for AI applications. The glue between AI agents and APIs.
+
+### 💬 [chatgpt-with-memory](https://github.com/akhshyganesh/chatgpt-with-memory)
+> **TypeScript** · AI Chat that actually remembers you. Next.js 15 + shadcn/ui + memof.ai. Because conversations shouldn't reset every session.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔧 More projects worth checking out (click to expand)</b></summary>
+<br/>
+
+| Project | Tech | What it does |
+|---------|------|-------------|
+| [**api-wrapper-sdk**](https://github.com/akhshyganesh/api-wrapper-sdk) | TypeScript | Type-safe, config-driven API wrapper with excellent DX |
+| [**HapiTS-MongoStarter**](https://github.com/akhshyganesh/HapiTS-MongoStarter) ⭐ 4 | JavaScript | Production template: Hapi + TypeScript + MongoDB |
+| [**HapiTS-PostgresStarter**](https://github.com/akhshyganesh/HapiTS-PostgresStarter) ⭐ 4 | JavaScript | Production template: Hapi + TypeScript + PostgreSQL + Mikro-ORM |
+| [**ServerlessTS-Starter**](https://github.com/akhshyganesh/ServerlessTS-Starter) | TypeScript | Enterprise-grade AWS Lambda + Serverless v3 template |
+| [**React-Tailwind**](https://github.com/akhshyganesh/React-Tailwind) ⭐ 6 | JavaScript | Clean React + Tailwind CSS starter kit |
+| [**docker-django-starter-kit**](https://github.com/akhshyganesh/docker-django-starter-kit) | Python | Production-ready Django REST with enterprise security |
+| [**easytranscribe**](https://github.com/akhshyganesh/easytranscribe) | Python | Voice → text using OpenAI Whisper, silence detection built-in |
+| [**mac-notch-buddy**](https://github.com/akhshyganesh/mac-notch-buddy) | Swift | macOS native app — because even the notch deserves attention |
+| [**figma-react-plugin-starter**](https://github.com/akhshyganesh/figma-react-plugin-starter) | TypeScript | Build Figma plugins with React + TypeScript |
+| [**Model-Context-Protocol**](https://github.com/akhshyganesh/Model-Context-Protocol) | TypeScript | MCP explorations and implementations |
+| [**firefox-random-predictor**](https://github.com/akhshyganesh/firefox-random-predictor) | JavaScript | Because Firefox needs love too |
+| [**payment-platform**](https://github.com/akhshyganesh/payment-platform) | TypeScript | Payment infrastructure, MIT licensed |
+
+</details>
 
 ---
 
-## �🚀 Support My AI Journey
+## 🎖️ GitHub Achievements
 
-<div align="center" >
+<div align="center">
 
-If you find my work inspiring or want to support, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/akhshyganesh)
-
-### 💫 *"Building the future, one neural network at a time"*
+| Badge | Achievement | What it means |
+|:---:|:---:|:---|
+| 🤝 | **Pair Extraordinaire x3** | Collaborated on pull requests — not a solo act |
+| 🦈 | **Pull Shark x3** | Merged PRs consistently — code that passes review |
+| ⚡ | **Quickdraw** | Fast on the draw — issues closed rapidly |
+| 🟡 | **YOLO** | Merged without review at least once — because sometimes you just know |
 
 </div>
 
 ---
 
-<div align="center" >
+## 🛠️ Tech Stack
 
-**⭐ Star my repos if you find them interesting!**  
-**🤝 Let's connect and build something amazing together!**
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=akhshyganesh&style=for-the-badge&color=blueviolet)
+**Languages I think in**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Hapi](https://img.shields.io/badge/Hapi.js-orange?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-74aa9c?style=flat-square&logo=openai&logoColor=white)
+
+**Infra & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+
+</div>
+
+---
+
+## 📊 The Numbers Don't Lie
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhshyganesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=238636&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhshyganesh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhshyganesh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- ACTIVITY GRAPH -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhshyganesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e3b341&area=true&area_color=238636" />
+
+</div>
+
+---
+
+## 🧭 My AI Philosophy
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   I don't vibe code.                                            │
+│   I don't mass-prompt and pray.                                 │
+│   I don't ship code I can't explain in a code review.           │
+│                                                                 │
+│   But I also don't write boilerplate by hand in 2026.           │
+│   I don't pretend AI doesn't exist.                             │
+│   I don't gatekeep tools that make engineers faster.            │
+│                                                                 │
+│   I use AI the way a surgeon uses a scalpel —                   │
+│   precisely, deliberately, and with full knowledge              │
+│   of what's underneath.                                         │
+│                                                                 │
+│   The prompt is not the product. The engineer is.               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🤝 What I'm Working On Right Now
+
+- 🔐 **[envault](https://github.com/akhshyganesh/envault)** — Daemon that guards your `.env` files (Go)
+- 🧠 **[nodepad](https://github.com/akhshyganesh/nodepad)** — Spatial research tool: AI augments thinking, not replaces it
+- 🛠️ **[aliasmate](https://github.com/aliasmate/aliasmate)** — CLI utility to save & re-run shell commands (org contributor)
+- ⚛️ **[react-use-anywhere](https://github.com/akhshyganesh/react-use-anywhere)** — React hooks outside React
+- 🔬 **MCP explorations** — Building the bridge between AI agents and real-world APIs
+
+---
+
+## 🌐 Find Me Everywhere
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-akhshyganesh-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhshyganesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhshyganesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhshyganesh)
+[![Twitter](https://img.shields.io/badge/X-akhshyganesh-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akhshyganesh)
+[![YouTube](https://img.shields.io/badge/YouTube-akhshyganesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@akhshyganesh)
+[![Medium](https://img.shields.io/badge/Medium-akhshyganesh-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akhshyganesh)
+[![Instagram](https://img.shields.io/badge/Instagram-akhshy__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akhshy_official)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Still here? Good.
+
+**Star a repo. Follow the account. Or better yet — open an issue and let's build something together.**
+
+**Every project is MIT licensed. Take it, fork it, learn from it, improve it.**
+
+**That's what open source is about.**
+
+<br/>
+
+[![Follow @akhshyganesh](https://img.shields.io/badge/FOLLOW%20@AKHSHYGANESH-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/akhshyganesh)
+
+<br/>
+
+*3,400+ contributions this year. 52 repos. All MIT. Zero vibe coding.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
 
 </div>
