@@ -15,7 +15,7 @@
 <br/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=3%2C400%2B+contributions+this+year+%F0%9F%94%A5;52+repositories+%7C+69+followers+%7C+Building+daily" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+every+single+day+%F0%9F%94%A5;AI+Engineer+%7C+Full-Stack+Dev+%7C+Open+Source" alt="Typing SVG" /></a>
 
 </div>
 
@@ -43,8 +43,6 @@ I use AI as a **power tool**, not a **crutch**. Every line in my repos has been 
 const akhshy = {
   role: "AI Engineer & Full-Stack Developer",
   location: "India 🇮🇳",
-  contributions_last_year: "3,400+",
-  repos: 52,
   open_source_license: "MIT (almost everything)",
   philosophy: "Build → Understand → Ship → Repeat",
   currently_building: ["envault", "nodepad", "aliasmate", "react-use-anywhere"],
@@ -75,7 +73,7 @@ const akhshy = {
 ### ⚛️ [react-use-anywhere](https://github.com/akhshyganesh/react-use-anywhere)
 > **TypeScript** · Production-ready library that lets you use React hooks outside React files via dependency injection. Yes, you read that right.
 
-### 📸 [reposnap](https://github.com/akhshyganesh/reposnap) ⭐ 4
+### 📸 [reposnap](https://github.com/akhshyganesh/reposnap) ![Stars](https://img.shields.io/github/stars/akhshyganesh/reposnap?style=flat&color=e3b341&label=⭐)
 > **TypeScript** · CLI tool that generates a complete snapshot of your codebase — structure + contents. Feed it to AI, share with teams, or archive.
 
 ### 🎙️ [sensai](https://github.com/akhshyganesh/sensai)
@@ -84,7 +82,7 @@ const akhshy = {
 </td>
 <td width="50%">
 
-### 🧠 [prompt-engineering](https://github.com/akhshyganesh/prompt-engineering) ⭐ 15
+### 🧠 [prompt-engineering](https://github.com/akhshyganesh/prompt-engineering) ![Stars](https://img.shields.io/github/stars/akhshyganesh/prompt-engineering?style=flat&color=e3b341&label=⭐)
 > **Python** · Curated prompt engineering techniques and patterns. The most starred repo in my collection — because everyone needs better prompts.
 
 ### 🎥 [floating-cam](https://github.com/akhshyganesh/floating-cam)
@@ -107,10 +105,10 @@ const akhshy = {
 | Project | Tech | What it does |
 |---------|------|-------------|
 | [**api-wrapper-sdk**](https://github.com/akhshyganesh/api-wrapper-sdk) | TypeScript | Type-safe, config-driven API wrapper with excellent DX |
-| [**HapiTS-MongoStarter**](https://github.com/akhshyganesh/HapiTS-MongoStarter) ⭐ 4 | JavaScript | Production template: Hapi + TypeScript + MongoDB |
-| [**HapiTS-PostgresStarter**](https://github.com/akhshyganesh/HapiTS-PostgresStarter) ⭐ 4 | JavaScript | Production template: Hapi + TypeScript + PostgreSQL + Mikro-ORM |
+| [**HapiTS-MongoStarter**](https://github.com/akhshyganesh/HapiTS-MongoStarter) ![Stars](https://img.shields.io/github/stars/akhshyganesh/HapiTS-MongoStarter?style=flat&label=⭐&color=e3b341) | JavaScript | Production template: Hapi + TypeScript + MongoDB |
+| [**HapiTS-PostgresStarter**](https://github.com/akhshyganesh/HapiTS-PostgresStarter) ![Stars](https://img.shields.io/github/stars/akhshyganesh/HapiTS-PostgresStarter?style=flat&label=⭐&color=e3b341) | JavaScript | Production template: Hapi + TypeScript + PostgreSQL + Mikro-ORM |
 | [**ServerlessTS-Starter**](https://github.com/akhshyganesh/ServerlessTS-Starter) | TypeScript | Enterprise-grade AWS Lambda + Serverless v3 template |
-| [**React-Tailwind**](https://github.com/akhshyganesh/React-Tailwind) ⭐ 6 | JavaScript | Clean React + Tailwind CSS starter kit |
+| [**React-Tailwind**](https://github.com/akhshyganesh/React-Tailwind) ![Stars](https://img.shields.io/github/stars/akhshyganesh/React-Tailwind?style=flat&label=⭐&color=e3b341) | JavaScript | Clean React + Tailwind CSS starter kit |
 | [**docker-django-starter-kit**](https://github.com/akhshyganesh/docker-django-starter-kit) | Python | Production-ready Django REST with enterprise security |
 | [**easytranscribe**](https://github.com/akhshyganesh/easytranscribe) | Python | Voice → text using OpenAI Whisper, silence detection built-in |
 | [**mac-notch-buddy**](https://github.com/akhshyganesh/mac-notch-buddy) | Swift | macOS native app — because even the notch deserves attention |
@@ -280,7 +278,7 @@ const akhshy = {
 
 <br/>
 
-*3,400+ contributions this year. 52 repos. All MIT. Zero vibe coding.*
+*Contributions speak louder than claims. All MIT. Zero vibe coding.*
 
 <br/>
 
